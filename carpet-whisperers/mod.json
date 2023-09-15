@@ -1,13 +1,13 @@
 {
 	"name" : "Carpet Whisperers",
-	"description" : "Neutral unit.",
-	
+	"description" : "New neutral unit.",
 	"author" : "edeksumo, lillith",
 	"contact" : "edeksumo@gmail.com",
 	"version" : "1.0.0",
+	"size" : 0.5,
 	"changelog" :
 	{
-
+		"1.0.0"   : [ "Initial release" ]
 	},
 	"compatibility" :
 	{
@@ -25,7 +25,6 @@
 		
     "objects" :
     [ 
-	
-		"config/objects/dunesCarpetSeller.json",
+		"config/objects/dunesCarpetSeller.json"
     ]
 }
