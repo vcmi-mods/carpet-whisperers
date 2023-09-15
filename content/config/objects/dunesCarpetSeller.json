@@ -1,0 +1,22 @@
+{
+	"core:creatureGeneratorCommon" : {
+		"types" : {
+			"carpetSeller" :
+             {
+				"name" : "Carpet Seller",
+				"creatures" : [[ "dunesCarpetWhisperer" ]],
+				"templates" : 
+                {
+					"default" : 
+                    {
+						"animation": "objects/carpetSeller",
+						"mask" : [ "VVV", "VVV", "VAB" ],
+					}
+				},
+				"sounds": {
+					"ambient": ["objects/carpetSeller"]
+				}								
+            }
+		}
+	}
+}
