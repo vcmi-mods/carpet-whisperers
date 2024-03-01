@@ -8,6 +8,13 @@
 	{
 		"1.0.0"   : [ "Initial release" ]
 	},
+	"chinese" : {
+		"name" : "魔毯低语者",
+		"description" : "新中立单位",
+		"translations" : [
+			"translation/carpet-whisperers/chinese.json",
+		]
+	},
 	"compatibility" :
 	{
 		"min" : "1.2.0"
