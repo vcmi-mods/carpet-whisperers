@@ -1,0 +1,10 @@
+{
+    "creatures.carpet-whisperers.dunesCarpetWhisperer.name.plural" : "魔毯低语者",
+    "creatures.carpet-whisperers.dunesCarpetWhisperer.name.singular" : "魔毯低语者",
+    "mapObject.carpet-whisperers.creatureGeneratorCommon.carpetSeller.name" : "魔毯商人",
+    "spell.carpet-whisperers.magicCarpet.description.advanced" : "{魔毯术}",
+    "spell.carpet-whisperers.magicCarpet.description.basic" : "{魔毯术}",
+    "spell.carpet-whisperers.magicCarpet.description.expert" : "{魔毯术}",
+    "spell.carpet-whisperers.magicCarpet.description.none" : "{魔毯术}",
+    "spell.carpet-whisperers.magicCarpet.name" : "魔毯术"
+}
