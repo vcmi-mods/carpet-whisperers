@@ -12,7 +12,7 @@
 		"name" : "魔毯低语者",
 		"description" : "新中立单位",
 		"translations" : [
-			"translation/carpet-whisperers/chinese.json",
+			"translation/carpet-whisperers/chinese.json"
 		]
 	},
 	"compatibility" :
@@ -21,7 +21,7 @@
 	},
 	"modType" : "Creatures",	
 	"spells" :
-    [ 
+	[ 
 		"config/spells/magicCarpet"
 	],
 	"creatures" :
