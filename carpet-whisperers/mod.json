@@ -6,7 +6,7 @@
 	"version" : "1.0.1",
 	"changelog" :
 	{
-		"1.0.1"   : [ "Czech translation by George King" ]
+		"1.0.1"   : [ "Czech translation by George King" ],
 		"1.0.0"   : [ "Initial release" ]
 	},
 	"chinese" : {
