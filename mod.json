@@ -1,0 +1,44 @@
+{
+	"name" : "Carpet Whisperers",
+	"description" : "New neutral unit.",
+	"author" : "edeksumo, lillith",
+	"contact" : "edeksumo@gmail.com",
+	"version" : "1.0.1",
+	"changelog" :
+	{
+		"1.0.1"   : [ "Czech translation by George King" ]
+		"1.0.0"   : [ "Initial release" ]
+	},
+	"chinese" : {
+		"name" : "魔毯低语者",
+		"description" : "新中立单位",
+		"translations" : [
+			"translation/carpet-whisperers/chinese.json"
+		]
+	},
+	"czech" : {
+		"name" : "Šeptající kouzelný koberec",
+		"description" : "Nová neutrální jednotka",
+		"translations" : [
+			"translation/carpet-whisperers/czech.json"
+		]
+	},
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"modType" : "Creatures",	
+	"spells" :
+	[ 
+		"config/spells/magicCarpet"
+	],
+	"creatures" :
+	[
+		"config/creatures/carpetWhisperer"
+	],
+		
+    "objects" :
+    [ 
+		"config/objects/dunesCarpetSeller.json"
+    ]
+}
