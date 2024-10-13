@@ -3,9 +3,10 @@
 	"description" : "New neutral unit.",
 	"author" : "edeksumo, lillith",
 	"contact" : "edeksumo@gmail.com",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"changelog" :
 	{
+		"1.0.1"   : [ "Czech translation by George King" ]
 		"1.0.0"   : [ "Initial release" ]
 	},
 	"chinese" : {
@@ -13,6 +14,13 @@
 		"description" : "新中立单位",
 		"translations" : [
 			"translation/carpet-whisperers/chinese.json"
+		]
+	},
+	"czech" : {
+		"name" : "Šeptající kouzelný koberec",
+		"description" : "Nová neutrální jednotka",
+		"translations" : [
+			"translation/carpet-whisperers/czech.json"
 		]
 	},
 	"compatibility" :
